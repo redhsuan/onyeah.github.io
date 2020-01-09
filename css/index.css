@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #B02049;
+	color: #0000F1;
+	background-color: #51CED4;
 }
 
 .html
@@ -245,8 +245,8 @@
 	min-height: 50px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	-webkit-transform: matrix(0,-1,1,0,81,131);
 	-ms-transform: matrix(0,-1,1,0,81,131);
 	transform: matrix(0,-1,1,0,81,131);
@@ -314,8 +314,8 @@
 	min-height: 50px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 289px;
